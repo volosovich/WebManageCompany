@@ -15,5 +15,6 @@ chmod a+r css/* fonts/* img/* js/*
 2. If you use web app for real people, change display_errors to false in config.php line 7
 3. If you need recount allmoney for each company, just uncomment code in index.php and load main-page.
 
+Need use php 5.5 or higher
 
 May the Force be with you!
