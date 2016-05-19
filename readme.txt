@@ -5,7 +5,8 @@ INSTALL
 2. Create db and user-db (phpmyadmin or hosting-panel)
 3. Edit config.json with your data
 4. Import sql file db.sql to your db, using phpmyadmin or hosting-panel or console.
-5. Enjoy!
+5. If you need db with test data import db-withdata.sql (User to login: test and pass test)
+6. Enjoy!
 
 WHAT PROBLEM YOU MIGHT HAVE?
 1. If you have problem (403 Error) with style page try command:
