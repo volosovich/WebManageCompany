@@ -1,4 +1,6 @@
-THANX FOR YOUR TEST ASSIGNMENT!
+WebManageCompany
+Simple project which manage company structure and build his tree
+
 
 INSTALL
 1. Copy all files to your directory (like public_hml).
@@ -15,6 +17,9 @@ chmod a+r css/* fonts/* img/* js/*
 2. If you use web app for real people, change display_errors to false in config.php line 7
 3. If you need recount allmoney for each company, just uncomment code in index.php and load main-page.
 
-Need use php 5.5 or higher
+Need use php 5.5 or higher + MySQL
+
+
+THANX FOR YOUR TEST ASSIGNMENT!
 
 May the Force be with you!
